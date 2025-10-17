@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "glorp_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_0"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_1"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_2"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_3"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_4"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_5"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_6"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_7"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_8"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_7"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_6"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_5"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_4"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_3"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_2"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_1"
+                },
+                {
+                    "key": "glorp_idle",
+                    "frame": "glorp_animation_1_0"
+                }
+            ]
+        }
+    ]
+}

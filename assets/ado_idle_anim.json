@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "ado_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ado_idle",
+                    "frame": "idle_adokenai1"
+                },
+                {
+                    "key": "ado_idle",
+                    "frame": "idle_adokenai2"
+                },
+                {
+                    "key": "ado_idle",
+                    "frame": "idle_adokenai3"
+                },
+                {
+                    "key": "ado_idle",
+                    "frame": "idle_adokenai4"
+                },
+                {
+                    "key": "ado_idle",
+                    "frame": "idle_adokenai5"
+                }
+            ]
+        }
+    ]
+}

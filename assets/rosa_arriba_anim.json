@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "rosa_arriba",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_0"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_1"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_2"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_3"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_4"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_5"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_6"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_7"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_8"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_9"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_10"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_11"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_12"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_13"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_14"
+                },
+                {
+                    "key": "rosa_arriba",
+                    "frame": "rosa_alto_animation_1_15"
+                }
+            ]
+        }
+    ]
+}

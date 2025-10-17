@@ -1,0 +1,64 @@
+{
+    "anims": [
+        {
+            "key": "flor_bajo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_0"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_1"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_2"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_3"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_4"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_5"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_6"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_5"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_4"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_3"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_2"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_1"
+                },
+                {
+                    "key": "flor_bajo",
+                    "frame": "flor_bajo_animation_1_0"
+                }
+            ]
+        }
+    ]
+}

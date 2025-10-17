@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "bullies",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bullies",
+                    "frame": "bullies_1"
+                },
+                {
+                    "key": "bullies",
+                    "frame": "bullies2"
+                },
+                {
+                    "key": "bullies",
+                    "frame": "bullies3"
+                },
+                {
+                    "key": "bullies",
+                    "frame": "bullies4"
+                },
+                {
+                    "key": "bullies",
+                    "frame": "bullies5"
+                }
+            ]
+        }
+    ]
+}

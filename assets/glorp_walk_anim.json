@@ -1,0 +1,96 @@
+{
+    "anims": [
+        {
+            "key": "glorp_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_0"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_1"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_2"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_3"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_4"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_5"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_4"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_3"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_2"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_1"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_0"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_1"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_2"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_3"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_4"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_5"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_4"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_3"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_2"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_1"
+                },
+                {
+                    "key": "glorp_walk",
+                    "frame": "glorp_walk_animation_1_0"
+                }
+            ]
+        }
+    ]
+}

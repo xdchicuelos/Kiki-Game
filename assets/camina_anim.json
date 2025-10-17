@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "camina",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "camina",
+                    "frame": "adokenai_camina"
+                },
+                {
+                    "key": "camina",
+                    "frame": "adokenai_camina2"
+                },
+                {
+                    "key": "camina",
+                    "frame": "adokenai_camina1z"
+                },
+                {
+                    "key": "camina",
+                    "frame": "adokenai_camina4"
+                },
+                {
+                    "key": "camina",
+                    "frame": "adokenai_camina3"
+                }
+            ]
+        }
+    ]
+}

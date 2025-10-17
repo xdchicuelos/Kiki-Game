@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "bullie_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bullie_idle",
+                    "frame": "bullie_idle"
+                },
+                {
+                    "key": "bullie_idle",
+                    "frame": "bullie_idle2"
+                },
+                {
+                    "key": "bullie_idle",
+                    "frame": "bullie_idle3"
+                },
+                {
+                    "key": "bullie_idle",
+                    "frame": "bullie_idle4"
+                },
+                {
+                    "key": "bullie_idle",
+                    "frame": "bullie_idle5"
+                }
+            ]
+        }
+    ]
+}

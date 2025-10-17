@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "bush_bajo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_0"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_1"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_2"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_3"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_4"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_5"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_6"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_7"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_8"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_9"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_10"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_11"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_12"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_13"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_14"
+                },
+                {
+                    "key": "bush_bajo",
+                    "frame": "bush_alto_animation_1_15"
+                }
+            ]
+        }
+    ]
+}
